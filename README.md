@@ -7,7 +7,7 @@ BatSecrets is a stealthy detective in the shadows of the web, specialized in rev
 To install BatSecrets, simply use go install:
 
 ```
-go install github.com/MrBrooks89/BatSecrets/cmd@latest
+go install github.com/MrBrooks89/BatSecrets/cmd/BatSecrets@latest
 ```
 
 This command will download and install the latest version of BatSecrets to your Go bin directory.
